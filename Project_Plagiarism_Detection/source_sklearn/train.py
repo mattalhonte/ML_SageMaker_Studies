@@ -60,7 +60,7 @@ if __name__ == '__main__':
     
     
     ## TODO: Train the model
-    mode.fit(train_x, train_y)
+    model.fit(train_x, train_y)
     
     
     ## --- End of your code  --- ##
